@@ -119,6 +119,10 @@ streamlit run app.py
 ```
 ## Screenshot
 
+Example Interface
+
+![App Screenshot](
+
 
 
 Author
@@ -128,4 +132,5 @@ Name: Moe Pyae Pyae Kyaw
 University: Mae Fah Luang University
 
 License: “Permission is granted to use, modify, and distribute this software for non-commercial purposes only. Commercial use, including sale or incorporation into proprietary software, is prohibited.”
+
 
