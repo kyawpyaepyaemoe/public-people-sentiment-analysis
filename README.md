@@ -121,9 +121,9 @@ streamlit run app.py
 
 Example Interface
 
-![App Screenshot](
-
-
+![App Screenshot](SA-1.png)
+![App Screenshot](SA-2.png)
+![App Screenshot](SA-3.png)
 
 Author
 
@@ -132,5 +132,6 @@ Name: Moe Pyae Pyae Kyaw
 University: Mae Fah Luang University
 
 License: “Permission is granted to use, modify, and distribute this software for non-commercial purposes only. Commercial use, including sale or incorporation into proprietary software, is prohibited.”
+
 
 
