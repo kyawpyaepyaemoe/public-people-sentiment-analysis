@@ -5,6 +5,7 @@ newspaper3k>=0.2.8
 transformers>=4.40.0
 torch>=2.2.0
 requests>=2.31.0
-lxml==4.9.3
+lxml==5.1.1
 lxml_html_clean>=0.1.1
 beautifulsoup4>=4.12.3
+
