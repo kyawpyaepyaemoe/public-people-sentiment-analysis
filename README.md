@@ -109,10 +109,7 @@ Data Aggregation for Summary: A groupby() operation on the DataFrame is used to 
 git clone https://github.com/YOUR_USERNAME/news-extraction-app.git
 cd news-extraction-app
 
-
 pip install -r requirements.txt
-
-python -m spacy download en_core_web_sm
 
 streamlit run app.py
 
@@ -132,6 +129,7 @@ Name: Moe Pyae Pyae Kyaw
 University: Mae Fah Luang University
 
 License: “Permission is granted to use, modify, and distribute this software for non-commercial purposes only. Commercial use, including sale or incorporation into proprietary software, is prohibited.”
+
 
 
 
