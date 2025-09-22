@@ -116,6 +116,7 @@ python -m spacy download en_core_web_sm
 
 streamlit run app.py
 
+```
 ## Screenshot
 
 
@@ -127,3 +128,4 @@ Name: Moe Pyae Pyae Kyaw
 University: Mae Fah Luang University
 
 License: “Permission is granted to use, modify, and distribute this software for non-commercial purposes only. Commercial use, including sale or incorporation into proprietary software, is prohibited.”
+
