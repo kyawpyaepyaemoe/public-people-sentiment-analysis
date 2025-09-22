@@ -3,7 +3,6 @@ import spacy
 import pandas as pd
 from newspaper import Article, build
 from transformers import pipeline
-import en_core_web_sm
 
 
 # Model Loading
@@ -11,9 +10,9 @@ import en_core_web_sm
 @st.cache_resource
 def load_spacy_model():
     try:
-        return en_core_web_sm.load()
+        return spacy.load("en_core_web_sm")
     except OSError:
-        st.error("SpaCy model 'en_core_web_sm' not found.")
+        st.error("SpaCy model 'en_core_web_sm' not found. Please run 'python -m spacy download en_core_web_sm' in your terminal.")
         st.stop()
 
 @st.cache_resource
